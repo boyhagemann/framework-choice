@@ -15,3 +15,4 @@ Just a summary of pros and cons for different frameworks for a new project
 | Native                                     | yes         | wip       |
 | Easy testable                              | good        | the best  |
 | Learning curve                             | easy        | different |
+| No cheating                                | no          | yes       |
