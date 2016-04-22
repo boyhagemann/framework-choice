@@ -5,6 +5,8 @@ Just a summary of pros and cons for different frameworks for a new project
 | Subject                                    | React       | Elm       | Cycle    |
 |--------------------------------------------|-------------|-----------|----------|
 | Server-side rendering                      | yes         | wip       | yes      |
+| HTML in javascript                         | yes         | yes       | yes      |
+| Unidirectional dataflow                    | yes         | yes       | yes      |
 | Virtual DOM                                | yes         | yes       | yes      |
 | No runtime errors                          | no          | yes       | no       |
 | Speed                                      | fast        | fastest   | faster   |
