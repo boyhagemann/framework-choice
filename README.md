@@ -14,6 +14,8 @@ Just a summary of pros and cons for different frameworks for a new project
 | Stateless functions                        | some        | all       | all      |
 | Immutable data                             | most of it  | all       | all      |
 | Community                                  | large       | ok        | growing  |
+| Core library size                          | large       | medium    | tiny     |
+| Open source since                          | 2014?       | 2011 (1)  | 2015 (2) |
 | Debugging                                  | ok          | best      | great    | 
 | Native                                     | yes         | wip       | yes      |
 | Easy testable                              | good        | the best  | great    |
@@ -24,4 +26,7 @@ Just a summary of pros and cons for different frameworks for a new project
 | Package choice                             | great       | limited   | growing  |
 | Package quality/architecture               | differs     | great     | great    |
 
+
+1) http://venturebeat.com/2013/07/26/why-i-designed-a-front-end-programming-language-from-scratch
+2) Out of frustration of React
 
