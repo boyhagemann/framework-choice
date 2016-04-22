@@ -2,21 +2,24 @@
 Just a summary of pros and cons for different frameworks for a new project
 
 
-| Subject                                    | React       | Elm       |
-|--------------------------------------------|-------------|-----------|
-| Server-side rendering                      | yes         | wip       |
-| No runtime errors                          | no          | yes       |
-| Speed                                      | fast        | faster    |
-| Pure JS                                    | yes         | no        |
-| Stateless functions                        | some        | all       |
-| Immutable data                             | most of it  | all       |
-| Community                                  | large       | ok        |
-| Debugging                                  | ok          | great     |
-| Native                                     | yes         | wip       |
-| Easy testable                              | good        | the best  |
-| Learning curve                             | easy        | different |
-| No cheating                                | no          | yes       |
-| Easy setup                                 | no          | yes       |
-| Must learn third party libs                | yes         | no        |
-| Package choice                             | great       | limited   |
-| Package quality/architecture               | differs     | great     |
+| Subject                                    | React       | Elm       | Cycle    |
+|--------------------------------------------|-------------|-----------|----------|
+| Server-side rendering                      | yes         | wip       | yes      |
+| Virtual DOM                                | yes         | yes       | yes      |
+| No runtime errors                          | no          | yes       | no       |
+| Speed                                      | fast        | fastest   | faster   |
+| Pure JS                                    | yes         | no        | yes      |
+| Stateless functions                        | some        | all       | all      |
+| Immutable data                             | most of it  | all       | all      |
+| Community                                  | large       | ok        | growing  |
+| Debugging                                  | ok          | best      | great    | 
+| Native                                     | yes         | wip       | yes      |
+| Easy testable                              | good        | the best  | great    |
+| Learning curve                             | easy        | different | easy     |
+| No cheating, strict                        | no          | yes       | no       |
+| Easy setup                                 | no          | yes       | yes      |
+| Must learn third party libs                | yes         | no        | yes      |
+| Package choice                             | great       | limited   | growing  |
+| Package quality/architecture               | differs     | great     | great    |
+
+
